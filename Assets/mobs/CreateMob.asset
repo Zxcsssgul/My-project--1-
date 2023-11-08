@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8215225b7c31fc24b835e477e95ba788, type: 3}
+  m_Name: CreateMob
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: -134205662, guid: 6996bf33bc760e341b69c544278ba0ae, type: 3}
+  - {fileID: 307295804, guid: bec7ed3f4fe0d7c468241d8d29b79b3e, type: 3}
+  - {fileID: 1859545134, guid: 4d3e71c8c018f2747b8df8828dbd222f, type: 3}
